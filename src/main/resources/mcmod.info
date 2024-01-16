@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "bravebunnies",
+    "name": "Brave Bunnies",
+    "description": "No more running rabbits!",
+    "version": "1.0.0",
+    "mcversion": "1.18.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["ElectricVersion"],
+    "credits": "Thanks to FeatheredPhantom, MokiYoki and BeardedDev",
+    "logoFile": "",
+    "screenshots": [],
+    "requiredMods": ["eanimod"]
+    "dependencies": ["eanimod"]
+  }
+]
